@@ -1,0 +1,17 @@
+{
+  "name": "cloud-run-openfaas",
+  "version": "1.0.0",
+  "description": "OpenFaaS on Cloud Run",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikaelvesavuori/cloud-run-openfaas.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "openfaas"
+  ],
+  "author": "Mikael Vesavuori",
+  "license": "MIT",
+  "dependencies": {}
+}
