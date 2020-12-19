@@ -1,4 +1,4 @@
-export PROJECT_ID="you-project-id"
+export PROJECT_ID="your-project-id"
 export IMAGE="cloudrun-openfaas"
 export TAG="latest"
 export REGION="europe-north1"
